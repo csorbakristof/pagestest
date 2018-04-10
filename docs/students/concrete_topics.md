@@ -3,10 +3,6 @@ parent: forstudents.md
 menu: Concrete section analysis
 ---
 
-(This page is meant for hungarian students, that is why it is in Hungarian.)
-
-# Beton minták struktúrális elemzése
-
 Ide azok a témák tartoznak, melyek egy a cv4s keretrendszerre épülő új alkalmazás formájában beton minták elemzését célozzák. Az összetétellel és porozitással kapcsolatos kiértékelések egyik célja a Paks 2 atomerőmű építkezéshez használt beton összetétel kiválasztása.
 
 * TOC

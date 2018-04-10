@@ -3,10 +3,6 @@ parent: forstudents.md
 menu: Pharmacy
 ---
 
-(This page is meant for hungarian students, that is why it is in Hungarian.)
-
-# Gyógyszeripari gyártástechnológia támogatása
-
 Ide azok a témák tartoznak, melyek egy a cv4s keretrendszerre épülő új alkalmazás formájában gyógyszeripari folyamatok eredményének ellenőrzését célozzák meg. Ilyenek például a keverékek homogenitása, vagy a hatóanyag koncentráció ellenőrzése.
 
 * TOC

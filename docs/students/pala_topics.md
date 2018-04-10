@@ -3,10 +3,6 @@ parent: forstudents.md
 menu: Schist sections
 ---
 
-(This page is meant for hungarian students, that is why it is in Hungarian.)
-
-# Pala csiszolat képek elemzésével kapcsolatos témák
-
 A pala csiszolatok elemzéséhez kapcsolódó témák még kialakulóban vannak, mivel a tudományos háttér igényeit most mérjük fel. Érdekes ötleteléseknek nézünk elébe, mivel (1) informatikai oldalról mi nem tudjuk, mire van szüksége a geológusoknak, (2) a geológusok nem tudják pontosan, nekünk mit könnyű és mit nehéz megoldani, valamint (3) számos olyan kutatási terület is kialakulhat, amivel a geológusok pont az esetleg hiányzó informatikai támogatás miatt eddig nem is foglalkoztak.
 
 Az alábbi témákat már most látszik, hogy fogjuk tudni hasznosítani. (A kép Lőrincz Kingától származik, köszönet érte!)

@@ -3,10 +3,6 @@ parent: forstudents.md
 menu: Games
 ---
 
-(This page is meant for hungarian students, that is why it is in Hungarian.)
-
-# Játékfejlesztés cv4s alapokon
-
 Bár eredetileg nem erre készült, a cv4s keretrendszer kiválóan alkalmas táblás stratégiai játékok fejlesztésére is, mivel a cimkézett polygonok a játéktér mezőiként is használhatók.
 
 A belső adatreprezentáció címkézett polygonokat tárol, ahol a megjelenést (pl. szín) a polygonon lévő címkék halmaza határozza meg. A szerver oldalt kiegészítve (amivel REST alapon kommunikál a cv4sensorhub) érdekes mezőszínezgetős, vagy esetleg polygonok módosításán alapuló játékokat is lehet készíteni. A téma célja egy ilyen játék kitalálása és implementálása. (A szerver oldal miatt nincs akadálya több klienssel multiplayer játéknak sem, ráadásul a projekt keretében nem csak WPF alapú, hanem HTML5 alapú megjelenítő és szerkesztő kliens is készül, vagyis ha a játék elkészül, az HTML5 alól is játszható lesz, amint az a kliens is elkészül.

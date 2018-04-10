@@ -3,10 +3,6 @@ parent: forstudents.md
 menu: The framework
 ---
 
-(This page is meant for hungarian students, that is why it is in Hungarian.)
-
-# A keretrendszerrel kapcsolatos témák
-
 Ide tartoznak azok a feladatok, melyek magát a keretrendszert okosítják úgy, hogy az első körben még egyik konkrét alkalmazáshoz sem kapcsolódik, de természetesen azok hamarosan profitálni fognak belőlük.
 
 * TOC

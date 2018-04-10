@@ -3,10 +3,6 @@ parent: forstudents.md
 menu: GrainAutLine
 ---
 
-(This page is meant for hungarian students, that is why it is in Hungarian.)
-
-# GrainAutLine alkalmazás specifikus témák
-
 Ide azok a témák tartoznak, melyek a cv4s keretrendszerre épülő GrainAutLine alkalmazás feladataihoz kapcsolódnak. Az alkalmazás céljairól itt található részletesebb leírás: [GrainAutLine]({{ site.baseurl }}/grainautline.html)
 
 * TOC

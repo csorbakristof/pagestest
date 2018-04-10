@@ -3,9 +3,7 @@ parent: applications.md
 menu: ChemoTracker
 ---
 
-# Tracking white blood cells in microscopy images
-
-![CV4S Logo]({{ site.baseurl }}/assets/cv4s_ChemoTracker.png){:.center-image}
+![ChemoTracker logo]({{ site.baseurl }}/assets/cv4s_ChemoTracker.png){:.center-image}
 
 The ChemoTracker application is designed to help medical researchers with the tracking of white blood cells in a sequence of microscopy images.
 

@@ -3,9 +3,6 @@ parent: forstudents.md
 menu: GIS
 ---
 
-(This page is meant for hungarian students, that is why it is in Hungarian.)
-
-# Geoinformatikai alkalmazások cv4s alapokon
 
 A geoinformatika egy olyan terület, ahol adat bőven van, ráasásul ez nagyon sokszor polygonok vagy képek formájában áll rendelkezésre. A cv4sensorhub pedig pont ezek kezelésére jött létre, így felvetődik a kérdés, hogy a két eszköztár egyesítésével milyen új megoldásokat lehet létrehozni. A cv4sensorhub adatmodelljében polygonok és hozzájuk kapcsolódó kulcs-érték párok segítségével könnyedén tudunk térképeket, jármű útvonalakat, szenzorhálózati mérési eredményeket ábrázolni, majd azok alapján összetett következtetéseket, becsléseket készíteni. A keretrendszer pedig már gondoskodik ezek látványos megjelenítéséről, a szerkeszthetőségről.
 

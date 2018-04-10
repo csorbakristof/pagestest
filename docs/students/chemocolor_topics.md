@@ -3,8 +3,6 @@ parent: forstudents.md
 menu: ChemoColor
 ---
 
-(This page is meant for hungarian students, that is why it is in Hungarian.)
-
 # ChemoColor alkalmazás specifikus témák
 
 Ide tartoznak a csontevő baktérium (osteoclast) fejlődést követő feladathoz kapcsolódó fejlesztések.

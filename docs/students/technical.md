@@ -3,9 +3,8 @@ parent: contact.md
 menu: Technical
 ---
 
-(This page is meant for hungarian students, that is why it is in Hungarian.)
-
 ## Technikai bemutató videók
+
 Elsősorban új csapattagok számára, a megtekintés javasolt sorrendjében.
 
   * ![]({{ site.baseurl }}/assets/video.png){: .vertical-center-image } [cv4s UI oldalról (MinimalViewer)](https://youtu.be/NsGZhOOPI3w)

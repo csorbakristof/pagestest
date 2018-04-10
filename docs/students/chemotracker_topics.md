@@ -3,10 +3,6 @@ parent: forstudents.md
 menu: ChemoTracker
 ---
 
-(This page is meant for hungarian students, that is why it is in Hungarian.)
-
-# ChemoTracker alkalmazás specifikus témák
-
 Ide tartoznak a fehérvértest követési feladathoz kapcsolódó fejlesztések. Az alkalmazás céljairól itt található részletesebb leírás: ([ChemoTracker]({{ site.baseurl }}/chemotracker.html))
 
 A ChemoTracker hamarosan induló, éles külső projekt lesz. Ezt azt is jelenti, hogy ezekben a feladatokban a feljesztés mellett bele lehet kóstolni a megrendelőkkel folytatott kommunikáció, közös ötletelés és a feladatok egyeztetés feladataiba.
