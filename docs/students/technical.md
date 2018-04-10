@@ -1,6 +1,6 @@
 ---
-parent: contact.md
-menu: Technical
+parent: forstudents.md
+menu: Technical info
 ---
 
 ## Technikai bemutató videók

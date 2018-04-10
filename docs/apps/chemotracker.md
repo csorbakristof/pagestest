@@ -1,6 +1,8 @@
 ---
 parent: applications.md
 menu: ChemoTracker
+title: ChemoTracker
+mdl_colors: deep_orange-blue
 ---
 
 ![ChemoTracker logo]({{ site.baseurl }}/assets/cv4s_ChemoTracker.png){:.center-image}
