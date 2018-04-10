@@ -1,5 +1,7 @@
 ---
-menu: contact page
+menu: Contact, team
+weight: 2
+mdl_colors: deep_orange-blue
 ---
 
 Project leader

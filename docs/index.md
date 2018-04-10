@@ -1,5 +1,5 @@
 ---
-menu: Custom Menu Text
+menu: false
 ---
 
 # Welcome to cv4sensorhub!
