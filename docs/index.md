@@ -1,5 +1,5 @@
 ---
-layout: default
+menu: Custom Menu Text
 ---
 
 # Welcome to cv4sensorhub!
