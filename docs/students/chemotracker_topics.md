@@ -6,7 +6,7 @@ title: ChemoTracker alkalmazás specifikus témák
 
 Ide tartoznak a fehérvértest követési feladathoz kapcsolódó fejlesztések. Az alkalmazás céljairól itt található részletesebb leírás: ([ChemoTracker]({{ site.baseurl }}/chemotracker.html))
 
-A ChemoTracker hamarosan induló, éles külső projekt lesz. Ezt azt is jelenti, hogy ezekben a feladatokban a feljesztés mellett bele lehet kóstolni a megrendelőkkel folytatott kommunikáció, közös ötletelés és a feladatok egyeztetés feladataiba.
+A ChemoTracker készen áll az első végfelhasználókkal végzett tesztekre, így hamarosan éles külső projekt jelleget ölt a fejlesztése. Ezt azt is jelenti, hogy ezekben a feladatokban a feljesztés mellett bele lehet kóstolni a megrendelőkkel folytatott kommunikáció, közös ötletelés és a feladatok egyeztetés feladataiba.
 
 * ![]({{ site.baseurl }}/assets/video.png){: .vertical-center-image } [Demó videó osteoclast félautomatikus körberajzolásra](https://youtu.be/e-VF6DXkxzM)
 
@@ -19,7 +19,7 @@ A ChemoTracker egyik legfontosabb feladata a fehérvértestek helyének meghatá
 
 ![Nehezebb esetek]({{ site.baseurl }}/assets/sejtek_crop2.png){: .center-image }
 
-A jelenlegi tervben is több detektor módszer szerepel, de még nagyon sok lehetőség van a kísérletezésre és javításra. Szóba jöhetnek fényesség alapú küszöbszintek és alakzat alapú szűrések, mintaillesztés alapú megoldások, neurális hálózatok, képszegmentációs módszerek és még sok más.
+A jelenlegi verzió is több detektor módszert alkalmaz, de még nagyon sok lehetőség van a kísérletezésre és javításra. Szóba jöhetnek fényesség alapú küszöbszintek és alakzat alapú szűrések, mintaillesztés alapú megoldások, neurális hálózatok, képszegmentációs módszerek és még sok más.
 
 > Amiket tanulhatsz vele:
 >
