@@ -1,6 +1,7 @@
 ---
 parent: applications.md
 menu: Framework
+title: The framework itself
 ---
 
 ![CV4S Banner]({{ site.baseurl }}/assets/cv4s_banner.png){:.center-image}

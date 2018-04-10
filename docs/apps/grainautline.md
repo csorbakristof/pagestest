@@ -1,6 +1,7 @@
 ---
 parent: applications.md
 menu: GrainAutLine
+title: GrainAutLine
 ---
 
 GrainAutLine is an application with state-of-the-art image processing functions designed for geology applications.

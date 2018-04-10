@@ -1,7 +1,6 @@
 ---
 menu: Applications
 weight: 1
-mdl_colors: deep_orange-blue
 title: Applications based on the framework
 ---
 
