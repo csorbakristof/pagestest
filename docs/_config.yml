@@ -1,5 +1,5 @@
 plugins:
   - jekyll-remote-theme
 remote_theme: chromatical/jekyll-materialdocs
-title: <img href="https://csorbakristof.github.io/pagestest/assets/cv4s_logo.png"/>
+title: cv4sensorhub
 mdl_colors: indigo-deep_orange
