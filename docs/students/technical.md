@@ -1,6 +1,6 @@
 ---
-menu: Technical
 parent: contact.md
+menu: Technical
 ---
 
 (This page is meant for hungarian students, that is why it is in Hungarian.)

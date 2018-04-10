@@ -1,6 +1,6 @@
 ---
-menu: Asphalt topics
-parent: contact.md
+parent: forstudents.md
+menu: Asphalt fracture analysis
 ---
 
 (This page is meant for hungarian students, that is why it is in Hungarian.)
