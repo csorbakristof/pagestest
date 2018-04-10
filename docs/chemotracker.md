@@ -1,8 +1,9 @@
 ---
 parent: contact.md
+menu: ChemoTracker
 ---
 
-# Tracking white blood cells in microscopy images
+# ChemoTracker: tracking white blood cells in microscopy images
 
 ![CV4S Logo]({{ site.baseurl }}/assets/cv4s_ChemoTracker.png){:.center-image}
 
