@@ -1,5 +1,5 @@
 ---
-layout: default
+menu: contact page
 ---
 
 Project leader
