@@ -1,5 +1,6 @@
 ---
 menu: false
+title: Welcome to cv4sensorhub
 ---
 
 # Welcome to cv4sensorhub!

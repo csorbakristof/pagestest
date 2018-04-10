@@ -1,9 +1,10 @@
 ---
 parent: forstudents.md
 menu: Pharmacy
+title: Gyógyszergyártási témák
 ---
 
-Ide azok a témák tartoznak, melyek egy a cv4s keretrendszerre épülő új alkalmazás formájában gyógyszeripari folyamatok eredményének ellenőrzését célozzák meg. Ilyenek például a keverékek homogenitása, vagy a hatóanyag koncentráció ellenőrzése.
+Ide azok a témák tartoznak, melyek egy a cv4s keretrendszerre épülő új alkalmazás formájában gyógyszeripari folyamatok eredményének ellenőrzését célozzák meg. Ilyenek például a keverékek homogenitása, vagy a hatóanyag koncentráció ellenőrzése. A munka a Vegyészkarral közösen, a PharmaTech Lab keretében folyik.
 
 * TOC
 {:toc}

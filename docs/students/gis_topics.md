@@ -1,6 +1,7 @@
 ---
 parent: forstudents.md
 menu: GIS
+title: Térinformatikai témák
 ---
 
 

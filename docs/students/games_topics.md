@@ -1,6 +1,7 @@
 ---
 parent: forstudents.md
 menu: Games
+title: Játékokkal kapcsolatos témák
 ---
 
 Bár eredetileg nem erre készült, a cv4s keretrendszer kiválóan alkalmas táblás stratégiai játékok fejlesztésére is, mivel a cimkézett polygonok a játéktér mezőiként is használhatók.

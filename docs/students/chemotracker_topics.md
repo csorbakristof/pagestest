@@ -1,6 +1,7 @@
 ---
 parent: forstudents.md
 menu: ChemoTracker
+title: ChemoTracker alkalmazás specifikus témák
 ---
 
 Ide tartoznak a fehérvértest követési feladathoz kapcsolódó fejlesztések. Az alkalmazás céljairól itt található részletesebb leírás: ([ChemoTracker]({{ site.baseurl }}/chemotracker.html))

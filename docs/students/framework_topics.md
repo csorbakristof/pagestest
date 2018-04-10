@@ -1,6 +1,7 @@
 ---
 parent: forstudents.md
 menu: The framework
+title: A keretrendszerrel kapcsolatos témák
 ---
 
 Ide tartoznak azok a feladatok, melyek magát a keretrendszert okosítják úgy, hogy az első körben még egyik konkrét alkalmazáshoz sem kapcsolódik, de természetesen azok hamarosan profitálni fognak belőlük.

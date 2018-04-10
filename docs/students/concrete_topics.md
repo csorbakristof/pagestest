@@ -1,6 +1,7 @@
 ---
 parent: forstudents.md
 menu: Concrete section analysis
+title: Beton csiszolatok elemzése
 ---
 
 Ide azok a témák tartoznak, melyek egy a cv4s keretrendszerre épülő új alkalmazás formájában beton minták elemzését célozzák. Az összetétellel és porozitással kapcsolatos kiértékelések egyik célja a Paks 2 atomerőmű építkezéshez használt beton összetétel kiválasztása.

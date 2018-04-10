@@ -1,6 +1,7 @@
 ---
 parent: forstudents.md
 menu: Technical info
+title: Technikai információk
 ---
 
 ## Technikai bemutató videók

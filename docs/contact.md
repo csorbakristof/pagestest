@@ -1,7 +1,7 @@
 ---
 menu: Contact, team
 weight: 2
-mdl_colors: deep_orange-blue
+title: Contact information
 ---
 
 Project leader

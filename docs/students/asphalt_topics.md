@@ -1,9 +1,8 @@
 ---
 parent: forstudents.md
 menu: Asphalt fracture analysis
+title: Aszfalt (útburkolat) fényképek kiértékelése
 ---
-
-# Aszfalt (útburkolat) fényképek kiértékelése
 
 Ide azok a témák tartoznak, melyek egy a cv4s keretrendszerre épülő új alkalmazás formájában útburkolati hibák keresését és osztályozását célozzák. A cél az úthálózat állapotának minél teljesebb felmérése, mely a bemeneti anyag mennyisége miatt csak automatizált eszközökkel lehetséges.
 

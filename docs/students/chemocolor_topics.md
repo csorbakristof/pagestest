@@ -1,9 +1,8 @@
 ---
 parent: forstudents.md
 menu: ChemoColor
+title: ChemoColor alkalmazás specifikus témák
 ---
-
-# ChemoColor alkalmazás specifikus témák
 
 Ide tartoznak a csontevő baktérium (osteoclast) fejlődést követő feladathoz kapcsolódó fejlesztések.
 
